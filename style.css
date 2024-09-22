@@ -1,0 +1,21 @@
+.container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    background-size: cover;
+    background-color: aquamarine;
+    padding: 20px;
+}
+.another{
+    background-color: white;
+    padding: 20px;
+    margin: 30px;
+}
+.image{
+    height: 200px;
+    width: normal;
+    text-align: right;
+    padding: 20px;
+}
+
+.pandh{
+    padding: 10px; 
+}
